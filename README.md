@@ -2,10 +2,10 @@
 
 <h2 align="center"> My firstname in FSL (French Sign Language) : </h2>
 
-<p align="center" >   
+<p style="display: flex; background-color: grey; border-radius: 15px; padding: 20px; align: center;">   
     <a href="https://github.com/Mathieu-LIN">
-        ![m](./assets/m.png)&nbsp; 
-        ![m](./assets/a.png)&nbsp; 
+        <img src="./assets/m.png" alt="m">
+        <img src="./assets/a.png" alt="a">
     </a> 
 </p>
 
@@ -16,20 +16,20 @@
     </a> 
 </p>
 
-### Github Stats
+### Github Analysts
 
 <p align="center">
-<a href="https://github.com/Mathieu-LIN">
-![Mathieu-Lin's Stats](https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-</a>
+    <a href="https://github.com/Mathieu-LIN">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mathieu-Lin's Stat">
+    </a>
 </p>
 <p align="center">
-<a href="https://github.com/Mathieu-LIN">
-![Mathieu-Lin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathieu-Lin&theme=tokyonight&hide_border=true)
-</a>
+    <a href="https://github.com/Mathieu-LIN">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathieu-Lin&theme=tokyonight&hide_border=true" alt="Mathieu-Lin's Streak">
+    </a>
 </p>
 <p align="center">
-<a href="https://github.com/Mathieu-LIN">
-![Mathieu-Lin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</a>
+    <a href="https://github.com/Mathieu-LIN">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mathieu-Lin's Top Languages">
+    </a>
 </p>
