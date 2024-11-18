@@ -2,8 +2,8 @@
 
 <h2 align="center"> My firstname in FSL (French Sign Language) : </h2>
 
-<p style="display: flex; background-color: grey; border-radius: 15px; padding: 20px; align: center;">   
-    <a href="https://github.com/Mathieu-LIN">
+<p style="display: flex;">   
+    <a href="https://github.com/Mathieu-LIN" style="align: center;">
         <img style="width: 115px; height: 112px;" src="./assets/m.png" alt="m">
         <img style="width: 115px; height: 112px;" src="./assets/a.png" alt="a">
         <img style="width: 115px; height: 112px;" src="./assets/t.png" alt="t">
@@ -16,15 +16,26 @@
 
 <h2 align="center"> My lastname in FSL (French Sign Language) : </h2>
 
-<p style="display: flex; background-color: grey; border-radius: 15px; padding: 20px; align: center;">   
-    <a href="https://github.com/Mathieu-LIN">
+<p style="display: flex;">   
+    <a href="https://github.com/Mathieu-LIN" style="align: center;">
         <img style="width: 115px; height: 112px;" src="./assets/l.png" alt="l">
         <img style="width: 115px; height: 112px;" src="./assets/i.png" alt="i">
         <img style="width: 115px; height: 112px;" src="./assets/n.png" alt="n">
     </a> 
 </p>
 
-### Github Analysts
+<h2 align="center">Contact</h2>
+
+<p style="display: flex; align: center;">   
+    <a href="mailto:work.mathieu.lin@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/mathieu-lin/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+</p>
+
+<h2 align="center"> GitHub Analysis </h2>
 
 <p align="center">
     <a href="https://github.com/Mathieu-LIN">
