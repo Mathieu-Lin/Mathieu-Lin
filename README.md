@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://mathieu-lin.github.io/">Mathieu LIN </a>!</h1>
-![Profile views counter](https://komarev.com/ghpvc/?username=Mathieu-Lin-git&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Mathieu-Lin.git&style=flat-square
 <h2 align="center"> My firstname in FSL (French Sign Language) : </h2>
 
 <p style="display: flex;">   
