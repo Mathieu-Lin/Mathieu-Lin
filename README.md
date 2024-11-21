@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/Mathieu-LIN">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mathieu-Lin's Stat">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight" alt="Mathieu-Lin's Stat">
     </a>
 </p>
 <p align="center">
