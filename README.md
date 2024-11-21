@@ -35,7 +35,7 @@
     </a>
 </p>
 
-<h2 align="center"> GitHub Analysis </h2>
+<h2 align="center"> GitHub Analyses </h2>
 
 <p align="center">
     <a href="https://github.com/Mathieu-LIN">
