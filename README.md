@@ -66,8 +66,12 @@
 <h2 align="center">👇 GitHub Stats 👇</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight" alt="Mathieu-Lin's Stat">
+    <a href="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight" alt="Mathieu-Lin's Stat">
+    </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mathieu-Lin's Top Languages">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mathieu-Lin's Top Languages">
+    </a>
 </p>
