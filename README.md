@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mathieu-lin.github.io/">Mathieu LIN </a>!</h1>
 
 
-<h2 align="center">👇 Contact 👇</h2>
+<h2 align="center">👇 Contacts/Links 👇</h2>
 
 <p style="display: flex; align: center;">   
     <a href="mailto:work.mathieu.lin@gmail.com">
@@ -9,6 +9,18 @@
     </a>
     <a href="https://www.linkedin.com/in/mathieu-lin/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+    <a href="https://github.com/Mathieu-Lin/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    </a>
+    <a href="https://github.com/Mathieu-Lin?tab=repositories">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://gitlab.com/Mathieu-Lin">
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    </a>
+    <a href="https://mathieu-lin.github.io/">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" alt="Github Pages">
     </a>
 </p>
 
