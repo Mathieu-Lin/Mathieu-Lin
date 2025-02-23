@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mathieu-lin.github.io/">Mathieu LIN </a>!</h1>
 
+
+<h2 align="center">👇 Contact 👇</h2>
+
+<p style="display: flex; align: center;">   
+    <a href="mailto:work.mathieu.lin@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/mathieu-lin/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+</p>
+
 <h2 align="center">👇 My firstname in FSL (French Sign Language) 👇</h2>
 
 <p style="display: flex;">   
@@ -50,17 +62,6 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
     <p> and more ...</p>
-</p>
-
-<h2 align="center">👇 Contact 👇</h2>
-
-<p style="display: flex; align: center;">   
-    <a href="mailto:work.mathieu.lin@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/mathieu-lin/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
 </p>
 
 <h2 align="center">👇 GitHub Stats 👇</h2>
