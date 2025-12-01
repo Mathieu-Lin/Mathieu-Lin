@@ -4,9 +4,6 @@
 <h2 align="center">👇 Contacts/Links 👇</h2>
 
 <p style="display: flex; align: center;">   
-    <a href="mailto:work.mathieu.lin@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
     <a href="https://www.linkedin.com/in/mathieu-lin/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
