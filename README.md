@@ -76,16 +76,3 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
     <p> and more ...</p>
 </p>
-
-<h2 align="center">👇 GitHub Stats 👇</h2>
-
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Lin&show_icons=true&theme=tokyonight" alt="Mathieu-Lin's Stat">
-    </a>
-</p>
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mathieu-Lin's Top Languages">
-    </a>
-</p>
