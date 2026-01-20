@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<h2 align="center">👇 My firstname in FSL (French Sign Language) 👇</h2>
+<h2 align="center">👇 My firstname in LSF (French Sign Language) 👇</h2>
 
 <p style="display: flex;">   
     <a href="https://github.com/Mathieu-LIN" style="align: center;">
@@ -35,7 +35,7 @@
     </a> 
 </p>
 
-<h2 align="center">👇 My lastname in FSL (French Sign Language) 👇 </h2>
+<h2 align="center">👇 My lastname in LSF (French Sign Language) 👇 </h2>
 
 <p style="display: flex;">   
     <a href="https://github.com/Mathieu-LIN" style="align: center;">
